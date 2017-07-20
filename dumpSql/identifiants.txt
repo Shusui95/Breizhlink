@@ -1,0 +1,7 @@
+Identifiants :
+Il y a 3 utilisateurs d'enregistrés. L'inscription est possible (l'utilisateur TEST en est l'example lors de la soutenance)
+
+Les 2 autres le login et mot de passe sont identiques :
+
+Login : Francois; Mot de passe : francois
+Login : Xavier; Mot de passe : xavier
